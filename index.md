@@ -23,6 +23,9 @@ In this project we intend to design and test a cooperative riboswitch, first dem
 [Lab work] 
 Sam, you'll have to give me a little time to work out how to add images in MarkDown. Please don't modify the repository again! It took me hours to merge the damn thing!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jea6CCv23nQ" frameborder="0" allowfullscreen></iframe>
+
+<div class="x-frame video" data-video="http://player.vimeo.com/video/52302939"> </div>
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
