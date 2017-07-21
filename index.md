@@ -21,11 +21,13 @@ We take inspiration from the design of DNA aptamers and DNA molecular beacons, w
 In this project we intend to design and test a cooperative riboswitch, first demonstrating the unfolding of the RNA hairpin in vitro using PAGE and FRET. We then intend to show the same cooperative behaviour in vivo in a variety of constructs using E. coli cells and the expression of a fluorescent reporter as a model system. Future work would be to incorporate the cooperative riboswitch into more advanced genetic circuits such as positive and negative feedback systems. 
 
 [Lab work] 
-Sam, you'll have to give me a little time to work out how to add images in MarkDown. Please don't modify the repository again! It took me hours to merge the damn thing!
+Sam, you'll have to give me a little time to work out how to add images in MarkDown. Please don't modify the repository again! 
+
+![alt text](http://i3.kym-cdn.com/photos/images/facebook/000/234/739/fa5.jpg "Logo Title Text 1")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jea6CCv23nQ" frameborder="0" allowfullscreen></iframe>
 
-<div class="x-frame video" data-video="http://player.vimeo.com/video/52302939"> </div>
+We're currently working in the [Department of Physics] (http://www2.physics.ox.ac.uk/) if you want to drop by to say hello!
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
