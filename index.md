@@ -27,10 +27,12 @@ Sam, you'll have to give me a little time to work out how to add images in MarkD
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jea6CCv23nQ" frameborder="0" allowfullscreen></iframe>
 
-We're currently working in the [Department of Physics] (http://www2.physics.ox.ac.uk/) if you want to drop by to say hello!
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
+
+We're currently working in the [Department of Physics](http://www2.physics.ox.ac.uk/) if you want to drop by to say hello! 
+
+
+<!---website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
 
@@ -94,3 +96,4 @@ Also see my [tutorials](http://kbroman.org/pages/tutorials) on
 [R packages](http://kbroman.org/pkg_primer),
 [data organization](http://kbroman.org/dataorg),
 and [reproducible research](http://kbroman.org/steps2rr).
+--->
