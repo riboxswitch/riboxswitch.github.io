@@ -5,6 +5,26 @@ tagline: The Oxford Biomod Team Wiki
 description: Keep up with the team's progress as we develop our co-operative riboswitches!
 ---
 
+ </head>
+    <!-- Navbar -->
+  <body>
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-narrow">
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li><a href="project.html">Project</a></li>
+          <li><a href="design.html">Design</a></li>
+          <li><a href="analysis.html">Analysis</a></li>
+          <li><a href="lab_book.html">Lab Book</a></li>
+          <li><a href="team.html">Team</a></li>
+          <li><a href="sponsors.html">Sponsors</a></li>
+        </ul>
+      </div>
+    </div>
+
+    
 Give me a chance and I'll bring you our real website! 
 
 ....Oooh it's being built now... Keep checking back to see our progress.
