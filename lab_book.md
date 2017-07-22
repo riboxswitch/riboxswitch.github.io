@@ -25,11 +25,13 @@ We loved NanocANDy's idea to put their original lab book online. Not only does i
 
 We hope that others struggling in their own projects will be spurred on by seeing both our successes and our failures. Science is never plain sailing, but we're going to do our best anyway!
 
-June 19
+### Getting Started
 
-June 20
+####June 19
 
-June 21
+####June 20
+
+####June 21
 
 
 
