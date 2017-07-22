@@ -7,7 +7,7 @@ description:
 This is where we explain the motivation behind our project and a simple summary of what we did. 
 
 It will be divided into the following sections:
-- Backgraound (Relevance)
+- Background (Relevance)
 - The Problem (Relevance)
 - Our Solution (Merit)
 - Project Goals (Specification and Feasibility) - with a 'criteria for success checklist' and a breakdown of core goals and stretch goals
@@ -120,10 +120,7 @@ Find the
 and remove it or edit it to suit. This is the only bit of html you'll
 have to deal with.--->
 
-    <!--- start of Karl's footer; modify this part -->
-        <a href="https://creativecommons.org/publicdomain/zero/1.0/">  ...
-        <a href="http://kbroman.org">Karl Broman</a>
-    <!-- end of Karl's footer; modify this part --->
+  
 
 <!---### Edit or remove the Markdown files
 
