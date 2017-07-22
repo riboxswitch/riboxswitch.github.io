@@ -6,6 +6,7 @@ description: Keep up with the team's progress as we develop our co-operative rib
 ---
 
 Give me a chance and I'll bring you our real website! 
+....Oooh it's being built now... Keep checking back to see our progress.
 
 Sam's text (this could really use a bit more fun...): 
 Synthetic biology promises the rational redesign of biological processes by controlling gene expression for applications throughout the pharmaceutical, brewing, and medical industries. This has largely been achieved through synthetic biology by repurposing natural mechanisms affecting translation, such as transcription factors and promoter sequences. However, these systems are not trivial to design and cannot be retargeted to arbitrary DNA sequences limiting their potential to be easily configured for new functions. 
