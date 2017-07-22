@@ -4,7 +4,6 @@ title: Project
 description: 
 ---
 
- </head>
     <!-- Navbar -->
   <body>
     <div class="navbar">
