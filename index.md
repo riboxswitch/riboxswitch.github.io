@@ -7,7 +7,7 @@ description: Keep up with the team's progress as we develop our co-operative rib
 
 Give me a chance and I'll bring you our real website! 
 
-![alt text](Logo_bw2_crop "RibOxSwitch logo")
+![alt text](Logo_bw2_crop.jpg "RibOxSwitch logo")
 
 ....Oooh it's being built now... Keep checking back to see our progress.
 
