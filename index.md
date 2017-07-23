@@ -7,6 +7,8 @@ description: Keep up with the team's progress as we develop our co-operative rib
 
 Give me a chance and I'll bring you our real website! 
 
+![alt text](Logo_bw2_crop "RibOxSwitch logo")
+
 ....Oooh it's being built now... Keep checking back to see our progress.
 
 Sam's text (this could really use a bit more fun...): 
@@ -25,7 +27,7 @@ In this project we intend to design and test a cooperative riboswitch, first dem
 [Lab work] 
 Sam, you'll have to give me a little time to work out how to add images in MarkDown. Please don't modify the repository again! 
 
-![alt text](http://i3.kym-cdn.com/photos/images/facebook/000/234/739/fa5.jpg "Logo Title Text 1")
+![alt text](http://i3.kym-cdn.com/photos/images/facebook/000/234/739/fa5.jpg "Hardly working laboratory dog")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jea6CCv23nQ" frameborder="0" allowfullscreen></iframe>
 
