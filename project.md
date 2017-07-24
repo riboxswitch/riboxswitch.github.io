@@ -1,8 +1,5 @@
 ---
 layout: page
-title: Project
-description: 
-
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="15">
 
 <br>
@@ -50,7 +47,11 @@ description:
 </div>
 
 </body>
-</html> 
+</html>
+title: Project
+description: 
+
+
 ---
 
 This is where we explain the motivation behind our project and a simple summary of what we did. 
