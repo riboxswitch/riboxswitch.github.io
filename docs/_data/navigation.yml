@@ -20,16 +20,18 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "RibOxSwitch"
+    url: /01-riboxswitch-home/
+  - title: "Project"
+    url: /02-project/
+  - title: "Design"
+    url: /03-design/
+  - title: "Analyis"
+    url: /04-analysis/
+  - title: "Team"
+    url: /05-team/
+  - title: "Sponsors"
+    url: /06-sponsors/
 
 
 # documentation links
